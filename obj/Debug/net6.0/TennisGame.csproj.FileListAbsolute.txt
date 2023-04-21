@@ -1,0 +1,15 @@
+C:\www\TennisGame\bin\Debug\net6.0\TennisGame.exe
+C:\www\TennisGame\bin\Debug\net6.0\TennisGame.deps.json
+C:\www\TennisGame\bin\Debug\net6.0\TennisGame.runtimeconfig.json
+C:\www\TennisGame\bin\Debug\net6.0\TennisGame.dll
+C:\www\TennisGame\bin\Debug\net6.0\TennisGame.pdb
+C:\www\TennisGame\obj\Debug\net6.0\TennisGame.csproj.AssemblyReference.cache
+C:\www\TennisGame\obj\Debug\net6.0\TennisGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\TennisGame\obj\Debug\net6.0\TennisGame.AssemblyInfoInputs.cache
+C:\www\TennisGame\obj\Debug\net6.0\TennisGame.AssemblyInfo.cs
+C:\www\TennisGame\obj\Debug\net6.0\TennisGame.csproj.CoreCompileInputs.cache
+C:\www\TennisGame\obj\Debug\net6.0\TennisGame.dll
+C:\www\TennisGame\obj\Debug\net6.0\refint\TennisGame.dll
+C:\www\TennisGame\obj\Debug\net6.0\TennisGame.pdb
+C:\www\TennisGame\obj\Debug\net6.0\TennisGame.genruntimeconfig.cache
+C:\www\TennisGame\obj\Debug\net6.0\ref\TennisGame.dll
